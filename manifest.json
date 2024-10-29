@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Daily Affirmation",
+    "version": "1.0",
+    "description": "Start your day with a positive affirmation!",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
