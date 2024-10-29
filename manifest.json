@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "name": "Daily Affirmation",
     "version": "1.0",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoMf/tlqfBPhurbFamBtZuUbfRGhuQ61/1FNQVmpkCn622I6SvKmD4AV7uOD6BsGAC/6DSKknNEiCXUED+z/2vTkm0RgQ9baK96XLO+HNFCs24cpQ7y4gox8rHoYMbqMCoLNMNykQRiJWwLAVfkvPGrdE/8s9sT2UnpD7E6jqW4JwGyWJTpJRkLdaKzvulOOm0ywpWjsiJgGVsdKirhbl7XBBR5LoH9NyPStnMXbG3h+43h4qP1Rp/2bITuquzg95Rr0W46nQ9hsP8tdLGC7SzF23dPih9rTTROrWjEKOrwKitouekXaJUZMt3LdMa0XjIyj2D4Q5jiTblYCSJYdRuwIDAQAB",
     "description": "Start your day with a positive affirmation!",
     "action": {
       "default_popup": "popup.html"
